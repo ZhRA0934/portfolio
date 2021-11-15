@@ -8,6 +8,14 @@
    }
   </style>
 
+<style>
+   .round {
+    border-radius: 100px; /* Радиус скругления */
+    border: 3px solid green; /* Параметры рамки */
+    box-shadow: 0 0 7px #666; /* Параметры тени */
+   }
+  </style>
+
  </head>
  <body bgcolor=white background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgkAk3UesOkbElQUzmGXLQbOEEifU4SdfzlQ&usqp=CAU">
 
