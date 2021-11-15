@@ -4,7 +4,7 @@
 
 <title>Фоновое изображение</title>
  </head>
- <body bgcolor=black background="https://images.app.goo.gl/s2NDWpS5LE7vxVvH8">
+ <body bgcolor=Grey background="https://images.app.goo.gl/s2NDWpS5LE7vxVvH8">
 	<p>Здесь фоновое изображение устанавливается с помощью атрибута background тега body.</p>
 
 <h1>PORTFOLIO</h1>
