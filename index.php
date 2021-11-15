@@ -2,16 +2,9 @@
 <html>
 <head>
 <title>Фоновое изображение</title>
-<style>
-   .round {
-    border-radius: 100px;
-    border: 3px solid green;
-    box-shadow: 0 0 7px #666;
-   }
-  </style>
 
  </head>
- <body bgcolor=white background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgkAk3UesOkbElQUzmGXLQbOEEifU4SdfzlQ&usqp=CAU">
+ <body bgcolor=white background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzER0hbcawNiuRtjRCU9Nu09NHIMcM0l8r0A&usqp=CAU">
 
 <h1>PORTFOLIO</h1>
 
