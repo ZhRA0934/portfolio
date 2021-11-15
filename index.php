@@ -3,16 +3,10 @@
 <head>
 <title>Фоновое изображение</title>
 <style>
-   .fig {
-    text-align: center;
-   }
-  </style>
-
-<style>
    .round {
-    border-radius: 100px; /* Радиус скругления */
-    border: 3px solid green; /* Параметры рамки */
-    box-shadow: 0 0 7px #666; /* Параметры тени */
+    border-radius: 100px;
+    border: 3px solid green;
+    box-shadow: 0 0 7px #666;
    }
   </style>
 
@@ -25,7 +19,18 @@
 
 <h2>Personal data</h2>
 
-<p class="fig"><img src="https://www.meme-arsenal.com/memes/a13202136f3ed3b2ea0135fc70d4d239.jpg" alt="portfolio image" width="320" height="300"></p>
+<p><img src="https://www.meme-arsenal.com/memes/a13202136f3ed3b2ea0135fc70d4d239.jpg" alt="portfolio image" width="220" height="200"></p>
+
+<hr>
+
+<p>Name.  :   Rustambek      </p>
+<hr>
+<p>Surname:   Zhanabilov     </p>
+<hr>
+<p>Age    :   17             </p>
+<hr>
+<p>Class  :.  Csc-20a.       </p>
+<hr>
 
 </body>
 </html>
