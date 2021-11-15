@@ -3,7 +3,7 @@
 <head>
 <title>Фоновое изображение</title>
  </head>
- <body bgcolor=white background="https://storge.pic2.me/c/1360x800/969/5c88d77aae74c.jpg">
+ <body bgcolor=white background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbRwEktfUK_wfiaTHG2xpNd2icqbQO0b_OZw&usqp=CAU">
 
 <h1>PORTFOLIO</h1>
 
@@ -11,7 +11,7 @@
 
 <h2>Personal data</h2>
 
-<img src="https://static.wikia.nocookie.net/solo-leveling/images/d/d1/Sungo-%C4%9Cin-vuo.png/revision/latest?cb=20200515042731&path-prefix=ru" alt="portfolio image">
+<img src="https://www.meme-arsenal.com/memes/a13202136f3ed3b2ea0135fc70d4d239.jpg" alt="portfolio image">
 
 </body>
 </html>
