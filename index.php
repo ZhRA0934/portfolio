@@ -21,7 +21,6 @@ moz-background-size: 100%;
 
 <h2>Personal data</h2>
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 img {
   border-radius: 50%;
