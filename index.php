@@ -31,7 +31,7 @@ img {
 <hr>
 <h2>Personal data</h2>
 
-<p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfoGeLAvchsleg7l9smkL4VkvNS3Pnezms0g&usqp=CAU" alt="fgjffg" align="right" width="410" height="400" class="round" class="rightpic"></p>
+<p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfoGeLAvchsleg7l9smkL4VkvNS3Pnezms0g&usqp=CAU"  width="410" height="400" class="round" class="rightpic"></p>
 
 <p>Name:___________Rustambek.   </p>
 <hr>
