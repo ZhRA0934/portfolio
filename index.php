@@ -16,16 +16,19 @@
 
 <hr>
 
-<p>Name.  :   Rustambek      </p>
+<p>Name:___________Rustambek</p>
 <hr>
-<p>Surname:   Zhanabilov     </p>
+<p>Surname:________Zhanabilov</p>
 <hr>
-<p>Age    :   17             </p>
+<p>Birthday:_______09.03.2004</p>
 <hr>
-<p>Class  :.  Csc-20a.       </p>
+<p>Class:__________Csc-20a</p>
 <hr>
+<p>Phone:__________+99670433439</p>
+<hr>
+<p>Adress:_________Sokuluk,_Novopavlovka</p>
+
 
 </body>
 </html>
-
 
