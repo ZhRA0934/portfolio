@@ -6,13 +6,27 @@
  </head>
  <style>
 body{
-background="https://funart.pro/uploads/posts/2021-04/1618601645_38-funart_pro-p-oboi-fon-fon-v-stile-anime-39.jpg">
-moz-background-size: 100%;
-    -webkit-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
+background="https://funart.pro/uploads/posts/2021-04/1618601645_38-funart_pro-p-oboi-fon-fon-v-stile-anime-39.jpg"
    }
 <style>
+
+<style>
+   .parent {
+  padding: 10px;
+}
+img {
+  position: relative;
+  top: 80%; 
+  left: 80%;
+  height: 20%;
+  width: 20%;
+}
+   .round {
+    border-radius: 10000px; /* Радиус скругления */
+    border: px solid green; /* Параметры рамки */
+    box-shadow: 0 0 7px #666; /* Параметры тени */
+   
+  </style>
 
 
 <h1>PORTFOLIO</h1>
@@ -21,13 +35,7 @@ moz-background-size: 100%;
 
 <h2>Personal data</h2>
 
-<style>
-img {
-  border-radius: 50%;
-}
-</style>
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfoGeLAvchsleg7l9smkL4VkvNS3Pnezms0g&usqp=CAU" align="right" alt="Avatar" style="width:200px">
+<p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfoGeLAvchsleg7l9smkL4VkvNS3Pnezms0g&usqp=CAU" alt="fgjffg" align="right" width="220" height="200" class="round"></p>
 
 <p>Name:___________Rustambek.   </p>
 <hr>
