@@ -45,17 +45,31 @@ img {
 <hr>
 <p>Adress:_________Sokuluk,_Novopavlovka</p>
 
- <div class="container">
-      
-        <form class="modal-content animate" action="https://www.instagram.com">
+<div class="container">
+    <form class="modal-content animate" action="https://www.instagram.com/">
     <div class="imgcontainer">
-      <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">×</span>
-      <button type="submit">Instagram</button>
-  
-     
-       
-      </label>
-    </div>
+    <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">×</span>
+    <button type="submit">Instagram</button>
+</label>
+</div>
+
+<div class="container">
+    <form class="modal-content animate" action="https://www.facebook.com/">
+    <div class="imgcontainer">
+    <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">×</span>
+    <button type="submit">Facebook</button>
+</label>
+</div>
+
+<div class="container">
+    <form class="modal-content animate" action="https://www.youtube.com/">
+    <div class="imgcontainer">
+    <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">×</span>
+    <button type="submit">YouTube</button>
+</label>
+</div>
+
+
 
 </body>
 </html>
