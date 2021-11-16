@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-   body{
-   background="https://funart.pro/uploads/posts/2021-04/1618601645_38-funart_pro-p-oboi-fon-fon-v-stile-anime-39.jpg"
-   }
-<style>
+<body background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZFQ43lHMEhv_M1aDZ9EBUz1mTzA0L0aRCQ&usqp=CAU">
 
 <style>
    .parent {
