@@ -13,10 +13,10 @@
 }
 img {
   position: relative;
-  top: 80%; 
-  left: 80%;
-  height: 20%;
-  width: 20%;
+  top: 100%; 
+  left: 100%;
+  height: 50%;
+  width: 50%;
 }
    .round {
     border-radius: 10000px;
@@ -41,6 +41,9 @@ img {
 <p>Phone:__________+99670433439.</p>
 <hr>
 <p>Adress:_________Sokuluk,_Novopavlovka</p>
+
+
+
 </body>
 </html>
 
