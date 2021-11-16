@@ -32,17 +32,17 @@ img {
 
 <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfoGeLAvchsleg7l9smkL4VkvNS3Pnezms0g&usqp=CAU"  width="410" height="400" align="right" class="round" class="rightpic"></p>
 
-<i style="font-size: 18px; color: Orange">Name:___________Rustambek</i>
+<i style="font-size: 30px; color: Orange">Name:___________Rustambek</i>
 <hr>
-<i style="font-size: 18px; color: Orange">Surname:________Zhanabilov</i>
+<i style="font-size: 30px; color: Orange">Surname:________Zhanabilov</i>
 <hr>
-<i style="font-size: 18px; color: Orange">Birthday:_______09.03.2004</i>
+<i style="font-size: 30px; color: Orange">Birthday:_______09.03.2004</i>
 <hr>
-<i style="font-size: 18px; color: Orange">Class:__________Csc-20a</i>
+<i style="font-size: 30px; color: Orange">Class:__________Csc-20a</i>
 <hr>
-<i style="font-size: 18px; color: Orange">Phone:__________+99670433439</i>
+<i style="font-size: 30px; color: Orange">Phone:__________+99670433439</i>
 <hr>
-<i style="font-size: 18px; color: Orange">Adress:_________Sokuluk,_Novopavlovka</i>
+<i style="font-size: 30px; color: Orange">Adress:_________Sokuluk,_Novopavlovka</i>
 <hr>
 <div class="container">
     <form class="modal-content animate" action="https://www.instagram.com/">
