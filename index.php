@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<body background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZFQ43lHMEhv_M1aDZ9EBUz1mTzA0L0aRCQ&usqp=CAU">
+<body background="https://lh3.googleusercontent.com/proxy/Aff3HxC5lHD3xFrHvqD7i_1GbGjGj_iUg8dijOoNfI7p0HisY0GHASjAI7LIQdSmtFGqOQUlA2sysWY">
 
 <style>
    .parent {
@@ -45,8 +45,17 @@ img {
 <hr>
 <p>Adress:_________Sokuluk,_Novopavlovka</p>
 
-
+ <div class="container">
+      
+        <form class="modal-content animate" action="https://www.instagram.com">
+    <div class="imgcontainer">
+      <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">×</span>
+      <button type="submit">Instagram</button>
+  
+     
+       
+      </label>
+    </div>
 
 </body>
 </html>
-
