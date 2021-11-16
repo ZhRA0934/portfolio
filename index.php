@@ -44,7 +44,7 @@ img {
 <p>Phone:__________+99670433439.</p>
 <hr>
 <p>Adress:_________Sokuluk,_Novopavlovka</p>
-
+<hr>
 <div class="container">
     <form class="modal-content animate" action="https://www.instagram.com/">
     <div class="imgcontainer">
@@ -52,7 +52,7 @@ img {
     <button type="submit">Instagram</button>
 </label>
 </div>
-
+<hr>
 <div class="container">
     <form class="modal-content animate" action="https://www.facebook.com/">
     <div class="imgcontainer">
@@ -60,7 +60,7 @@ img {
     <button type="submit">Facebook</button>
 </label>
 </div>
-
+<hr>
 <div class="container">
     <form class="modal-content animate" action="https://www.youtube.com/">
     <div class="imgcontainer">
@@ -68,7 +68,7 @@ img {
     <button type="submit">YouTube</button>
 </label>
 </div>
-
+<hr>
 
 
 </body>
