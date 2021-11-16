@@ -26,9 +26,9 @@ img {
    margin: 0 0 5px 5px; /* Отступы вокруг фотографии */
 }</style>
 
-<h1 style="font-size: 40px; color: Orange">PORTFOLIO</h1>
+<h1 style="font-size: 100px; color: Orange">PORTFOLIO</h1>
 <hr>
-<h2 style="font-size: 40px; color: Orange">Personal data</h2>
+<h2 style="font-size: 100px; color: Orange">Personal data</h2>
 
 <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfoGeLAvchsleg7l9smkL4VkvNS3Pnezms0g&usqp=CAU"  width="100" height="100" align="right" class="round"></p>
 
