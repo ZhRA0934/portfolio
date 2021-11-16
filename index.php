@@ -4,16 +4,7 @@
 <title>Фоновое изображение</title>
 
  </head>
- <style>
-body{
-background="https://funart.pro/uploads/posts/2021-04/1618601645_38-funart_pro-p-oboi-fon-fon-v-stile-anime-39.jpg">
-moz-background-size: 100%;
-    -webkit-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
-   }
-<style>
-
+ 
 <h1>PORTFOLIO</h1>
 
 <hr>
