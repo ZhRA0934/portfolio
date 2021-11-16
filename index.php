@@ -26,11 +26,8 @@ img {
   border-radius: 50%;
 }
 </style>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfoGeLAvchsleg7l9smkL4VkvNS3Pnezms0g&usqp=CAU" align="right" width="255" height="250" />
 
-
-
-<hr>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfoGeLAvchsleg7l9smkL4VkvNS3Pnezms0g&usqp=CAU" align="right" alt="Avatar" style="width:200px">
 
 <p>Name:___________Rustambek.   </p>
 <hr>
